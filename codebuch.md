@@ -1,9 +1,9 @@
-EDGE-Attribute
+**EDGE-Attribute**
 
 from = id des Knoten
 to = id des Knoten
 
-medium
+**medium**
 
 1= book
 2= film
